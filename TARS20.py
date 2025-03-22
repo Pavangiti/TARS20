@@ -12,7 +12,7 @@ st.set_page_config(page_title="Predictive Healthcare Analytics", layout="wide")
 # ----------------- DATABASE & FILE PATH SETUP -----------------
 DB_FILE = "vaccination_data.db"
 USER_DB = "users.db"
-DATASET_PATH = "https://github.com/Pavangiti/TARS20/releases/download/v1.0.0/data2.xlsx"
+DATASET_PATH = "Readme.md"
 
 # Function to create database connection
 def create_connection(db_path):
